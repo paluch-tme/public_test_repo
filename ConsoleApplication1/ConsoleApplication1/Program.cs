@@ -10,7 +10,10 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("...");
             Console.WriteLine("first commit");
+            Console.WriteLine("new branch");
+            Console.WriteLine("second commit");
         }
     }
 }
